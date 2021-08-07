@@ -6,4 +6,7 @@ This is new file
 This is new file
 This is new file
 
+This is a feature update1
+This is a feature update2
+
 
